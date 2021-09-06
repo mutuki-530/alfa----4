@@ -22,9 +22,9 @@ body {
   line-height: 1.77778;
   font-weight: bold;
   text-decoration: none;
-  border: none; #76001D
+  border: none;
   list-style: none;
-  color: #0000;
+  color: #370000;
   margin: 0;
 }
 
@@ -78,7 +78,7 @@ button {
   display: block;
   border: none;
   margin: 0 auto;
-  background-color: #006837;
+  background-color: #680000;
   color: #fff;
   width: 287px;
   height: 55px;
